@@ -222,9 +222,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['delete_customer_id'])
                                         <span class="badge cbf-badge px-2 py-1 fw-bold"><?php echo $cbf_label; ?></span>
                                     </td>
                                     <td><?php echo htmlspecialchars($customer['customer_code']); ?></td>
-                                    <td>
-                                    <td><?php echo htmlspecialchars($customer['customer_name']); ?></td>
-                                    <td>
                                     <td><?php echo htmlspecialchars($customer['customer_name']); ?></td>
                                     <td>
                                         <div class="small fw-bold"><?php echo htmlspecialchars($customer['phone']); ?></div>
