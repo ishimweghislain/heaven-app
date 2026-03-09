@@ -1,0 +1,280 @@
+{
+  "en": {
+    "navigation": {
+      "home": "Home",
+      "about": "About Us",
+      "services": "Our Services",
+      "news": "News",
+      "partners": "Partners",
+      "contact": "Contact Us",
+      "language": "Language",
+      "english": "English",
+      "amharic": "አማርኛ (Amharic)",
+      "kinyarwanda": "Kinyarwanda",
+      "francais":"French"
+    },
+    "hero": {
+      "title0": "Heavenly Harvest Finance Ltd",
+      "title": "Welcome <br>To<br> Heavenly Harvest Finance Ltd",
+      "tagline": "Becoming best, inclusive, sustainable finance,economic and social people's live transformation in Rwanda and East Africa by 2030.",
+      "cta": "Get Started"
+    },
+    "about": {
+      "title": "About Us",
+      "vision_title": "Vision",
+      "vision_text": "Becoming best, inclusive, sustainable finance,economic and social people's live transformation in Rwanda and East Africa by 2030.",
+      "mission_title": "Mission",
+      "mission_text": "Providing microfinance services tailored to client needs while ensuring long-term institutional sustainability.",
+      "values_title": "Core Values",
+      "values_text": "Responsibility, Staff Commitment, Client Understanding, Learning, Tech-driven Growth, Entrepreneurship, Sustainability."
+    },
+    "services": {
+      "title": "Our Services",
+      "savings_category": "Savings",
+      "loans_category": "Loans",
+      "requirements": "Requirements:",
+      "view_requirements": "View Requirements"
+    },
+    "news": {
+      "title": "Latest News",
+      "read_more": "Read More",
+      "by": "By:"
+    },
+    "partners": {
+      "title": "Our Partners"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "get_in_touch": "Get In Touch",
+      "contact_intro": "We're here to answer any questions you may have about our services.",
+      "email_title": "Email",
+      "phone_title": "Phone",
+      "address_title": "Address",
+      "form_name": "Your Name",
+      "form_email": "Your Email",
+      "form_subject": "Subject",
+      "form_message": "Your Message",
+      "form_submit": "Send Message",
+      "form_success": "Thank you for your message!",
+      "form_success_text": "We have received your inquiry and will respond as soon as possible."
+    },
+    "footer": {
+      "quick_links": "Quick Links",
+      "our_services": "Our Services",
+      "legal": "Legal",
+      "privacy_policy": "Privacy Policy",
+      "terms_of_service": "Terms of Service",
+      "sitemap": "Sitemap",
+      "copyright": "Copyright",
+      "all_rights_reserved": "All Rights Reserved"
+    }
+  },
+  "rw": {
+    "navigation": {
+      "home": "Ahabanza",
+      "about": "Abo Turibo",
+      "services": "Serivisi Zacu",
+      "news": "Amakuru",
+      "partners": "Abafatanyabikorwa",
+       "contact": "Twandikire",
+      "language": "Urulimi",
+      "amharic": "አማርኛ (Amharic)",
+      "kinyarwanda": "Kinyarwanda",
+      "english": "Icyongereza",
+       "francais":"French"
+    },
+    "hero": {
+      "title0": "Heavenly Harvest Finance Ltd",
+      "title": "Murakaza Neza <br>Muri<br>Heavenly Harvest Finance Ltd",
+      "tagline": "Kugera ku rwego rwo kuba aba mbere, mu buryo bwose, burambye mu mafaranga, ubukungu n’impinduka nziza ku buzima bw’abaturage mu Rwanda no mu Burasirazuba bwa Afurika bitarenze umwaka wa 2030.",
+      "cta": "Ikaze"
+    },
+    "about": {
+      "title": "Abo Turibo",
+      "vision_title": "Icyerekezo Cyacu",
+      "vision_text": "Kugera ku rwego rwo kuba aba mbere, mu buryo bwose, burambye mu mafaranga, ubukungu n’impinduka nziza ku buzima bw’abaturage mu Rwanda no mu Burasirazuba bwa Afurika bitarenze umwaka wa 2030.",
+      "mission_title": "Intego Yacu",
+      "mission_text": "Gutanga serivisi za microfinance zihuye n’ibyifuzo by’abakiriya, mu gihe hanitabwa ku kuramba kw’ishyirahamwe mu buryo burambye.",
+      "values_title": "Indangagaciro Zacu",
+      "values_text": "Inshingano, Kwiyemeza kw'abakozi, Gusobanukirwa kw'abakiriya, Kwiga, Iterambere rishingiye ku buhanga, kwihangira imirimo, Kuramba."
+    },
+    "services": {
+      "title": "Serivisi zacu",
+      "savings_category": "Kwizigamira",
+      "loans_category": "Inguzanyo",
+      "requirements": "Ibisabwa:",
+      "view_requirements": "Reba Ibisabwa"
+    },
+    "news": {
+      "title": "Amakuru Mashya",
+      "read_more": "Soma Birambuye",
+      "by": "Yanditswe Na:"
+    },
+    "partners": {
+      "title": "Abafatanyabikorwa"
+    },
+    "contact": {
+      "title": "Twandikire",
+      "get_in_touch": "Tugane Urisanga",
+      "contact_intro": "Turi hano kugirango dusubize ibibazo byose ushobora kuba ufite kubyerekeye serivisi zacu.",
+      "email_title": "Email",
+      "phone_title": "Telefoni",
+      "address_title": "Aderesi",
+      "form_name": "Amazina yawe",
+      "form_email": "Email yawe",
+      "form_subject": "Ingingo cg Sujet",
+      "form_message": "Ubutumwa Bwawe",
+      "form_submit": "Ohereza",
+      "form_success": "Urakoze kubutumwa bwawe!",
+      "form_success_text": "Twakiriye iperereza ryawe kandi tuzasubiza vuba bishoboka."
+    },
+    "footer": {
+      "quick_links": "Ihuza ryihuse",
+      "our_services": "Serivisi Zacu",
+      "legal": "Amategeko",
+      "privacy_policy": "Privacy Policy",
+      "terms_of_service": "Amabwiriza n'amategeko",
+      "sitemap": "Sitemap",
+      "copyright": "Copyright",
+      "all_rights_reserved": "All Rights Reserved"
+    }
+  },
+  "fr": {
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Nos Services",
+    "news": "Actualités",
+    "partners": "Partenaires",
+    "contact": "Contact Nous",
+    "language": "Langue",
+    "english": "Anglais",
+    "amharic": "አማርኛ (Amharique)",
+    "kinyarwanda": "Kinyarwanda",
+    "francais": "Français"
+  },
+  "hero": {
+     "title0": "Heavenly Harvest Finance Ltd",
+      "title": "Bienvenu<br> À <br> Heavenly Harvest Finance Ltd",
+    "tagline": "Devenir le meilleur acteur de la finance inclusive et durable, transformant la vie économique et sociale des populations au Rwanda et en Afrique de l'Est d'ici 2030.",
+    "cta": "Commencer"
+  },
+  "about": {
+    "title": "À propos de nous",
+    "vision_title": "Notre Vision",
+    "vision_text": "Devenir le meilleur acteur de la finance inclusive et durable, transformant la vie économique et sociale des populations au Rwanda et en Afrique de l'Est d'ici 2030.",
+    "mission_title": "Notre Mission",
+    "mission_text": "Fournir des services de microfinance adaptés aux besoins des clients tout en garantissant la durabilité institutionnelle à long terme.",
+    "values_title": "Nos Valeurs",
+    "values_text": "Responsabilité, Engagement du personnel, Compréhension des clients, Apprentissage, Croissance basée sur la technologie, Entrepreneuriat, Durabilité."
+  },
+  "services": {
+    "title": "Nos Services",
+    "savings_category": "Épargne",
+    "loans_category": "Nos Crédits",
+    "requirements": "Exigences :",
+    "view_requirements": "Voir les exigences"
+  },
+  "news": {
+    "title": "Dernières Actualités",
+    "read_more": "Lire la suite",
+    "by": "Par :"
+  },
+  "partners": {
+    "title": "Nos Partenaires"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "get_in_touch": "Entrer en contact",
+    "contact_intro": "Nous sommes là pour répondre à toutes vos questions concernant nos services.",
+    "email_title": "E-mail",
+    "phone_title": "Téléphone",
+    "address_title": "Adresse",
+    "form_name": "Votre nom",
+    "form_email": "Votre e-mail",
+    "form_subject": "Sujet",
+    "form_message": "Votre message",
+    "form_submit": "Envoyer le message",
+    "form_success": "Merci pour votre message !",
+    "form_success_text": "Nous avons bien reçu votre demande et nous vous répondrons dès que possible."
+  },
+  "footer": {
+    "quick_links": "Liens rapides",
+    "our_services": "Nos services",
+    "legal": "Mentions légales",
+    "privacy_policy": "Politique de confidentialité",
+    "terms_of_service": "Conditions d'utilisation",
+    "sitemap": "Plan du site",
+    "copyright": "Droits d’auteur",
+    "all_rights_reserved": "Tous droits réservés"
+  }
+},
+  "am1": {
+    "navigation": {
+      "home": "መነሻ",
+      "about": "ስለ እኛ",
+      "services": "አገልግሎቶች",
+      "news": "ዜና",
+      "partners": "አጋሮች",
+      "contact": "ያግኙን",
+      "language": "ቋንቋ",
+      "english": "English",
+      "amharic": "አማርኛ"
+    },
+    "hero": {
+      "title": "የስኬት ማይክሮፋይናንስ ተቋም",
+      "tagline": "በ2040 በኢትዮጵያና በምስራቅ አፍሪካ በድህነት ቅነሳ ጥረቶች ውስጥ ምርጥ፣ አካታች፣ ዘላቂ ኢኮኖሚያዊና ማህበራዊ ተሽከርካሪ መሆን።",
+      "cta": "ይጀምሩ"
+    },
+    "about": {
+      "title": "ስለ እኛ",
+      "vision_title": "ራዕይ",
+      "vision_text": "በ2040 በኢትዮጵያና በምስራቅ አፍሪካ በድህነት ቅነሳ ጥረቶች ውስጥ ምርጥ፣ አካታች፣ ዘላቂ ኢኮኖሚያዊና ማህበራዊ ተሽከርካሪ መሆን።",
+      "mission_title": "ተልዕኮ",
+      "mission_text": "የረጅም ጊዜ ተቋማዊ ዘላቂነትን በማረጋገጥ ለደንበኞች ፍላጎት የተበጀ የማይክሮፋይናንስ አገልግሎቶችን መስጠት።",
+      "values_title": "መሰረታዊ እሴቶች",
+      "values_text": "ኃላፊነት፣ የሰራተኞች ቁርጠኝነት፣ የደንበኞች ግንዛቤ፣ መማር፣ በቴክኖሎጂ የሚመራ እድገት፣ የንግድ ስራ፣ ዘላቂነት።"
+    },
+    "services": {
+      "title": "አገልግሎቶቻችን",
+      "savings_category": "ቁጠባዎች",
+      "loans_category": "ብድሮች",
+      "requirements": "መስፈርቶች:",
+      "view_requirements": "መስፈርቶችን ይመልከቱ"
+    },
+    "news": {
+      "title": "የቅርብ ጊዜ ዜናዎች",
+      "read_more": "ተጨማሪ ያንብቡ",
+      "by": "በ:"
+    },
+    "partners": {
+      "title": "አጋሮቻችን"
+    },
+    "contact": {
+      "title": "ያግኙን",
+      "get_in_touch": "ያነጋግሩን",
+      "contact_intro": "ስለ አገልግሎቶቻችን ሊኖርዎት ስለሚችል ማንኛውም ጥያቄ ለመመለስ እዚህ አለን።",
+      "email_title": "ኢሜይል",
+      "phone_title": "ስልክ",
+      "address_title": "አድራሻ",
+      "form_name": "ስምዎ",
+      "form_email": "ኢሜይልዎ",
+      "form_subject": "ርዕሰ ጉዳይ",
+      "form_message": "መልዕክትዎ",
+      "form_submit": "መልዕክት ይላኩ",
+      "form_success": "ለመልዕክትዎ እናመሰግናለን!",
+      "form_success_text": "ጥያቄዎን ተቀብለናል እና በተቻለ ፍጥነት ምላሽ እንሰጣለን።"
+    },
+    "footer": {
+      "quick_links": "ፈጣን ማገናኛዎች",
+      "our_services": "አገልግሎቶቻችን",
+      "legal": "ሕጋዊ",
+      "privacy_policy": "የግላዊነት ፖሊሲ",
+      "terms_of_service": "የአገልግሎት ውሎች",
+      "sitemap": "የጣቢያ ካርታ",
+      "copyright": "የቅጂ መብት",
+      "all_rights_reserved": "መብቱ በህግ የተጠበቀ ነው"
+    }
+  }
+}
+
