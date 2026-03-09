@@ -813,7 +813,7 @@ $default_total_payment = $schedule_data['total_payment'];
                         
                         <div class="col-md-4">
                             <div class="mb-3">
-                                <label for="collateral_value" class="form-label">Collateral Value</label>
+                                <label for="collateral_value" class="form-label">Market Value</label>
                                 <input type="text" class="form-control money-input" id="collateral_value" 
                                        name="collateral_value"
                                        value="<?php echo isset($_POST['collateral_value']) ? formatMoney(parseMoney($_POST['collateral_value'])) : formatMoney($loan['collateral_value']); ?>"
@@ -824,7 +824,7 @@ $default_total_payment = $schedule_data['total_payment'];
                         
                         <div class="col-md-4">
                             <div class="mb-3">
-                                <label for="collateral_net_value" class="form-label">Net Value</label>
+                                <label for="collateral_net_value" class="form-label">Cost Sale Value</label>
                                 <input type="text" class="form-control money-input" id="collateral_net_value" 
                                        name="collateral_net_value"
                                        value="<?php echo isset($_POST['collateral_net_value']) ? formatMoney(parseMoney($_POST['collateral_net_value'])) : formatMoney($loan['collateral_net_value']); ?>"
