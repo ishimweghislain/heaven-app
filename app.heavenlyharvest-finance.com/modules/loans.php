@@ -659,7 +659,7 @@ if ($total_result) {
                                 <th>Loan #</th>
                                 <th>Customer</th>
                                 <th>Disbursed</th>
-                                <th>Collateral Value</th>
+                                <th>Market Value</th>
                                 <th>Interest Rate</th>
                                 <th>Days Overdue</th>
                                 <th>Status</th>
