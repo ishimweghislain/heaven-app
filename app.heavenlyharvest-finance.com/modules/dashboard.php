@@ -2,7 +2,7 @@
 
 // index.php
 require_once __DIR__ . '/../config/database.php';
-session_start();
+// session_start() is already called in database.php
 
 // Redirect to login if not authenticated
 if (!isset($_SESSION['user_id'])) {
