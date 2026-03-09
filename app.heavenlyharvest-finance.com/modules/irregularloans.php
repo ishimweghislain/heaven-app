@@ -1167,7 +1167,9 @@ function createIrregularTransactionRecord($conn, $loan_id, $loan_number, $type, 
                                 <label for="collateral_value" class="form-label">Market Value</label>
                                 <input type="text" class="form-control money-input" id="collateral_value"
                                        name="collateral_value"
-                                       value="<?php echo isset($_POST['collateral_value']) ? formatMoney(parseMoney($_POST['collateral_value'])) : '0'; ?>">
+                                       value="<?php echo isset($_POST['collateral_value']) ? formatMoney(parseMoney($_POST['collateral_value'])) : '0'; ?>"
+                                       onkeyup="formatMoneyInput(this);"
+                                       data-original-value="<?php echo isset($_POST['collateral_value']) ? parseMoney($_POST['collateral_value']) : '0'; ?>">
                             </div>
                         </div>
                         <div class="col-md-4">
@@ -1175,7 +1177,9 @@ function createIrregularTransactionRecord($conn, $loan_id, $loan_number, $type, 
                                 <label for="collateral_net_value" class="form-label">Cost Sale Value</label>
                                 <input type="text" class="form-control money-input" id="collateral_net_value"
                                        name="collateral_net_value"
-                                       value="<?php echo isset($_POST['collateral_net_value']) ? formatMoney(parseMoney($_POST['collateral_net_value'])) : '0'; ?>">
+                                       value="<?php echo isset($_POST['collateral_net_value']) ? formatMoney(parseMoney($_POST['collateral_net_value'])) : '0'; ?>"
+                                       onkeyup="formatMoneyInput(this)"
+                                       data-original-value="<?php echo isset($_POST['collateral_net_value']) ? parseMoney($_POST['collateral_net_value']) : '0'; ?>">
                             </div>
                         </div>
                     </div>
